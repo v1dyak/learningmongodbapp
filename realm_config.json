@@ -1,0 +1,9 @@
+{
+    "app_id": "learningapp-yhlvn",
+    "config_version": 20210101,
+    "name": "LearningApp",
+    "location": "US-VA",
+    "provider_region": "gcp-us-central1",
+    "deployment_model": "LOCAL",
+    "environment": "development"
+}
